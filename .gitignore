@@ -1,0 +1,51 @@
+## java
+*.class
+
+## projects
+*.jar
+*.war
+*.ear
+*.ids
+**/target/
+
+## odin
+/online/output/*
+/preonline/output/*
+/online-timer/output/*
+/preonline-timer/output/*
+/online-auth/output/*
+/preonline-auth/output/*
+
+## logs
+/stacktrace.log
+/test/reports
+/logs
+*.log
+*.log.*
+
+## intellij
+*.iml
+*.ipr
+*.iws
+*.ids
+.idea/
+
+## eclipse
+*.pydevproject
+.project
+.metadata
+bin/**
+tmp/**
+tmp/**/*
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.classpath
+.settings/
+.loadpath
+
+## macos
+.DS_Store
+**/.DS_Store
