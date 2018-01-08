@@ -1,4 +1,4 @@
-package com.sigalhu;
+package com.sigalhu.Singleton;
 
 public class Singleton3 {
     private static Singleton3 singleton = null;
