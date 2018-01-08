@@ -1,4 +1,4 @@
-package com.sigalhu.com.sigalhu.abstractfactory;
+package com.sigalhu.abstractfactory;
 
 public class ProductB2 extends AbstractProductB {
     @Override

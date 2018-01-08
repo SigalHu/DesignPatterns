@@ -1,4 +1,4 @@
-package com.sigalhu.com.sigalhu.abstractfactory;
+package com.sigalhu.abstractfactory;
 
 public abstract class AbstractCreator {
     //创建A产品家族

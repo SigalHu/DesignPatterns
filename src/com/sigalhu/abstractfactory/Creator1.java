@@ -1,4 +1,4 @@
-package com.sigalhu.com.sigalhu.abstractfactory;
+package com.sigalhu.abstractfactory;
 
 public class Creator1 extends AbstractCreator {
     //只生产产品等级为1的A产品

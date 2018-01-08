@@ -1,4 +1,4 @@
-package com.sigalhu.com.sigalhu.abstractfactory;
+package com.sigalhu.abstractfactory;
 
 public abstract class AbstractProductB {
     //每个产品共有的方法
