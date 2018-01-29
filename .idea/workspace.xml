@@ -28,7 +28,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ConcreteDecorator2.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ConcreteDecorator2.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/sigalhu/decoratorpattern/ConcreteDecorator2.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="432">
@@ -36,6 +36,51 @@
               <folding>
                 <element signature="e#155#156#0" expanded="true" />
                 <element signature="e#188#189#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Strategy.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/sigalhu/strategypattern/Strategy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="2" column="16" lean-forward="false" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConcreteStrategy1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/sigalhu/strategypattern/ConcreteStrategy1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="2" column="30" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConcreteStrategy2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/sigalhu/strategypattern/ConcreteStrategy2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="4" column="31" lean-forward="false" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Context.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/sigalhu/strategypattern/Context.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="12" column="26" lean-forward="false" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="26" />
+              <folding>
+                <element signature="e#166#167#0" expanded="true" />
+                <element signature="e#207#208#0" expanded="true" />
+                <element signature="e#253#254#0" expanded="true" />
+                <element signature="e#296#297#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -61,10 +106,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/sigalhu/factorymethod/ConcreteProduct1.java" />
-        <option value="$PROJECT_DIR$/src/com/sigalhu/factorymethod/ConcreteProduct2.java" />
-        <option value="$PROJECT_DIR$/src/com/sigalhu/factorymethod/Creator.java" />
-        <option value="$PROJECT_DIR$/src/com/sigalhu/factorymethod/ConcreateCreator.java" />
         <option value="$PROJECT_DIR$/src/com/sigalhu/com/sigalhu/abstractfactory/AbstractProductA.java" />
         <option value="$PROJECT_DIR$/src/com/sigalhu/com/sigalhu/abstractfactory/ProductA1.java" />
         <option value="$PROJECT_DIR$/src/com/sigalhu/com/sigalhu/abstractfactory/ProductA2.java" />
@@ -112,6 +153,10 @@
         <option value="$PROJECT_DIR$/src/com/sigalhu/decoratorpattern/ConcreteDecorator.java" />
         <option value="$PROJECT_DIR$/src/com/sigalhu/decoratorpattern/ConcreteDecorator1.java" />
         <option value="$PROJECT_DIR$/src/com/sigalhu/decoratorpattern/ConcreteDecorator2.java" />
+        <option value="$PROJECT_DIR$/src/com/sigalhu/strategypattern/Strategy.java" />
+        <option value="$PROJECT_DIR$/src/com/sigalhu/strategypattern/ConcreteStrategy1.java" />
+        <option value="$PROJECT_DIR$/src/com/sigalhu/strategypattern/ConcreteStrategy2.java" />
+        <option value="$PROJECT_DIR$/src/com/sigalhu/strategypattern/Context.java" />
       </list>
     </option>
   </component>
@@ -183,7 +228,7 @@
               <item name="DesignPatterns" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="sigalhu" type="462c0819:PsiDirectoryNode" />
-              <item name="decoratorpattern" type="462c0819:PsiDirectoryNode" />
+              <item name="strategypattern" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -308,12 +353,12 @@
       <workItem from="1515402128984" duration="35000" />
       <workItem from="1516023463752" duration="2455000" />
       <workItem from="1516632916706" duration="4313000" />
-      <workItem from="1517234917398" duration="3700000" />
+      <workItem from="1517234917398" duration="4634000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14967000" />
+    <option name="totallyTimeSpent" value="15901000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1618" height="870" extended-state="6" />
@@ -361,34 +406,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/sigalhu/factorymethod/ConcreteProduct2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="16" lean-forward="false" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sigalhu/factorymethod/Creator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" column="69" lean-forward="false" selection-start-line="4" selection-start-column="69" selection-end-line="4" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sigalhu/factorymethod/ConcreateCreator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" column="12" lean-forward="false" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sigalhu/abstractfactory/ProductA2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" column="31" lean-forward="false" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/sigalhu/abstractfactory/AbstractProductA.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="81">
@@ -787,6 +804,43 @@
           <folding>
             <element signature="e#155#156#0" expanded="true" />
             <element signature="e#188#189#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sigalhu/strategypattern/Strategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="16" lean-forward="false" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sigalhu/strategypattern/ConcreteStrategy1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="30" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sigalhu/strategypattern/ConcreteStrategy2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="31" lean-forward="false" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sigalhu/strategypattern/Context.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="26" lean-forward="false" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="26" />
+          <folding>
+            <element signature="e#166#167#0" expanded="true" />
+            <element signature="e#207#208#0" expanded="true" />
+            <element signature="e#253#254#0" expanded="true" />
+            <element signature="e#296#297#0" expanded="true" />
           </folding>
         </state>
       </provider>
