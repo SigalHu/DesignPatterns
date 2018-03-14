@@ -10,7 +10,8 @@ public class Proxy implements Subject {
     }
 
     //通过构造函数传递代理者
-    public Proxy(Object...objects){
+    public Proxy(Subject subject){
+        this.subject = subject;
     }
 
     //实现接口中定义的方法
