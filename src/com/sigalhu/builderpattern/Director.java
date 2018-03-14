@@ -1,7 +1,7 @@
 package com.sigalhu.builderpattern;
 
 public class Director {
-    private Builder builder = new ConcreteProduct();
+    private Builder builder = new ConcreteBuilder();
 
     //构建不同的产品
     public Product getAProduct(){
