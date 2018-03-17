@@ -2,7 +2,6 @@ package com.sigalhu.prototypepattern;
 
 public class PrototypeClass implements Cloneable{
     //覆写父类Object方法
-
     @Override
     protected PrototypeClass clone(){
         PrototypeClass prototypeClass = null;
