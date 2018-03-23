@@ -12,6 +12,7 @@ public abstract class Handler {
         if(this.getHandlerLevel().equals(request.getRequestLevel())){
             response = this.echo(request);
         } else {
+            //判断是否有下一个处理者
             if(this.nextHandler != null){
                 response = this.nextHandler.handleMessage(request);
             } else {
