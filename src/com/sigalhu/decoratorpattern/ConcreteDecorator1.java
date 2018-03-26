@@ -8,6 +8,7 @@ public class ConcreteDecorator1 extends Decorator{
 
     //定义自己的修饰方法
     private void method1(){
+        System.out.println("method1 修饰");
     }
 
     //重写父类的方法
