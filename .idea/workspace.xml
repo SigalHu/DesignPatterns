@@ -1,13 +1,113 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/src/com/sigalhu/abstractfactory/Creator1.java" line="3" />
+    <bookmark url="file://$PROJECT_DIR$/src/com/sigalhu/abstractfactory/impl/Creator1.java" line="3" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="06ea75b7-119f-4d8d-b21a-55564a7ca8cc" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/adapterpattern/Adaptee.java" afterPath="$PROJECT_DIR$/src/com/sigalhu/adapterpattern/Adaptee.java" />
-      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/adapterpattern/ConcreteTarget.java" afterPath="$PROJECT_DIR$/src/com/sigalhu/adapterpattern/ConcreteTarget.java" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/abstractfactory/AbstractCreator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/abstractfactory/impl/AbstractCreator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/abstractfactory/AbstractProductA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/abstractfactory/impl/AbstractProductA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/abstractfactory/AbstractProductB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/abstractfactory/impl/AbstractProductB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/abstractfactory/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/abstractfactory/impl/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/abstractfactory/Creator1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/abstractfactory/impl/Creator1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/abstractfactory/Creator2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/abstractfactory/impl/Creator2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/abstractfactory/ProductA1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/abstractfactory/impl/ProductA1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/abstractfactory/ProductA2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/abstractfactory/impl/ProductA2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/abstractfactory/ProductB1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/abstractfactory/impl/ProductB1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/abstractfactory/ProductB2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/abstractfactory/impl/ProductB2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/adapterpattern/Adaptee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/adapterpattern/impl/Adaptee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/adapterpattern/Adapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/adapterpattern/impl/Adapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/adapterpattern/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/adapterpattern/impl/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/adapterpattern/ConcreteTarget.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/adapterpattern/impl/ConcreteTarget.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/adapterpattern/Target.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/adapterpattern/impl/Target.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/bridgepattern/Abstraction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/bridgepattern/impl/Abstraction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/bridgepattern/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/bridgepattern/impl/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/bridgepattern/ConcreteImplementor1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/bridgepattern/impl/ConcreteImplementor1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/bridgepattern/ConcreteImplementor2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/bridgepattern/impl/ConcreteImplementor2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/bridgepattern/Implementor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/bridgepattern/impl/Implementor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/bridgepattern/RefinedAbstraction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/bridgepattern/impl/RefinedAbstraction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/builderpattern/Builder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/builderpattern/impl/Builder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/builderpattern/ConcreteBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/builderpattern/impl/ConcreteBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/builderpattern/Director.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/builderpattern/impl/Director.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/builderpattern/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/builderpattern/impl/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/commandpattern/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/commandpattern/impl/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/commandpattern/Command.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/commandpattern/impl/Command.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/commandpattern/ConcreteCommand1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/commandpattern/impl/ConcreteCommand1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/commandpattern/ConcreteCommand2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/commandpattern/impl/ConcreteCommand2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/commandpattern/ConcreteReceiver1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/commandpattern/impl/ConcreteReceiver1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/commandpattern/ConcreteReceiver2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/commandpattern/impl/ConcreteReceiver2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/commandpattern/Invoker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/commandpattern/impl/Invoker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/commandpattern/Receiver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/commandpattern/impl/Receiver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/decoratorpattern/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/decoratorpattern/impl/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/decoratorpattern/Component.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/decoratorpattern/impl/Component.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/decoratorpattern/ConcreteComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/decoratorpattern/impl/ConcreteComponent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/decoratorpattern/ConcreteDecorator1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/decoratorpattern/impl/ConcreteDecorator1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/decoratorpattern/ConcreteDecorator2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/decoratorpattern/impl/ConcreteDecorator2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/decoratorpattern/Decorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/decoratorpattern/impl/Decorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/factorymethod/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/factorymethod/impl/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/factorymethod/ConcreateCreator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/factorymethod/impl/ConcreateCreator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/factorymethod/ConcreteProduct1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/factorymethod/impl/ConcreteProduct1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/factorymethod/ConcreteProduct2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/factorymethod/impl/ConcreteProduct2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/factorymethod/Creator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/factorymethod/impl/Creator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/factorymethod/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/factorymethod/impl/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/flyweightpattern/ConcreteFlyweight1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/flyweightpattern/impl/ConcreteFlyweight1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/flyweightpattern/ConcreteFlyweight2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/flyweightpattern/impl/ConcreteFlyweight2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/flyweightpattern/Flyweight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/flyweightpattern/impl/Flyweight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/flyweightpattern/FlyweightFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/flyweightpattern/impl/FlyweightFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/interpreterpattern/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/interpreterpattern/impl/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/interpreterpattern/Context.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/interpreterpattern/impl/Context.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/interpreterpattern/Expression.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/interpreterpattern/impl/Expression.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/interpreterpattern/NonterminalExpression.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/interpreterpattern/impl/NonterminalExpression.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/interpreterpattern/TerminalExpression.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/interpreterpattern/impl/TerminalExpression.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/mediatorpattern/Colleague.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/mediatorpattern/impl/Colleague.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/mediatorpattern/ConcreteColleague1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/mediatorpattern/impl/ConcreteColleague1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/mediatorpattern/ConcreteColleague2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/mediatorpattern/impl/ConcreteColleague2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/mediatorpattern/ConcreteMediator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/mediatorpattern/impl/ConcreteMediator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/mediatorpattern/Mediator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/mediatorpattern/impl/Mediator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/prototypepattern/PrototypeClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/prototypepattern/impl/PrototypeClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/proxypattern/Proxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/proxypattern/impl/Proxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/proxypattern/RealSubject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/proxypattern/impl/RealSubject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/proxypattern/Subject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/proxypattern/impl/Subject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/proxypattern/dynamicproxy/BeforeAdvice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/proxypattern/impl/dynamicproxy/BeforeAdvice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/proxypattern/dynamicproxy/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/proxypattern/impl/dynamicproxy/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/proxypattern/dynamicproxy/DynamicProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/proxypattern/impl/dynamicproxy/DynamicProxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/proxypattern/dynamicproxy/IAdvice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/proxypattern/impl/dynamicproxy/IAdvice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/proxypattern/dynamicproxy/MyInvocationHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/proxypattern/impl/dynamicproxy/MyInvocationHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/proxypattern/dynamicproxy/RealSubject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/proxypattern/impl/dynamicproxy/RealSubject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/proxypattern/dynamicproxy/Subject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/proxypattern/impl/dynamicproxy/Subject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/responsibilitychain/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/responsibilitychain/impl/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/responsibilitychain/ConcreteHandler1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/responsibilitychain/impl/ConcreteHandler1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/responsibilitychain/ConcreteHandler2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/responsibilitychain/impl/ConcreteHandler2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/responsibilitychain/ConcreteHandler3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/responsibilitychain/impl/ConcreteHandler3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/responsibilitychain/Handler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/responsibilitychain/impl/Handler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/responsibilitychain/Level.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/responsibilitychain/impl/Level.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/responsibilitychain/Request.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/responsibilitychain/impl/Request.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/responsibilitychain/Response.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/responsibilitychain/impl/Response.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/singleton/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/singleton/impl/Singleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/singleton/Singleton2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/singleton/impl/Singleton2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/singleton/Singleton3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/singleton/impl/Singleton3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/statepattern/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/statepattern/impl/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/statepattern/ConcreteState1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/statepattern/impl/ConcreteState1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/statepattern/ConcreteState2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/statepattern/impl/ConcreteState2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/statepattern/Context.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/statepattern/impl/Context.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/statepattern/State.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/statepattern/impl/State.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/strategypattern/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/strategypattern/impl/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/strategypattern/ConcreteStrategy1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/strategypattern/impl/ConcreteStrategy1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/strategypattern/ConcreteStrategy2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/strategypattern/impl/ConcreteStrategy2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/strategypattern/Context.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/strategypattern/impl/Context.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/strategypattern/Strategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/strategypattern/impl/Strategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/templatemethod/AbstractClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/templatemethod/impl/AbstractClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/templatemethod/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/templatemethod/impl/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/templatemethod/ConcreteClass1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/templatemethod/impl/ConcreteClass1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/templatemethod/ConcreteClass2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/templatemethod/impl/ConcreteClass2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/visitorpattern/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/visitorpattern/impl/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/visitorpattern/ConcreteElement1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/visitorpattern/impl/ConcreteElement1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/visitorpattern/ConcreteElement2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/visitorpattern/impl/ConcreteElement2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/visitorpattern/Element.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/visitorpattern/impl/Element.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/visitorpattern/IVisitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/visitorpattern/impl/IVisitor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/visitorpattern/ObjectStruture.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/visitorpattern/impl/ObjectStruture.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/visitorpattern/Visitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/visitorpattern/impl/Visitor.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,114 +119,80 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="ConcreteStrategy1.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/sigalhu/strategypattern/ConcreteStrategy1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-              <folding>
-                <element signature="e#135#136#0" expanded="true" />
-                <element signature="e#183#184#0" expanded="true" />
-              </folding>
+      <file leaf-file-name="readme.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/readme.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="506">
+                <caret line="22" column="44" selection-start-line="22" selection-start-column="44" selection-end-line="22" selection-end-column="44" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ConcreteStrategy2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/sigalhu/strategypattern/ConcreteStrategy2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="5" column="33" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-              <folding>
-                <element signature="e#135#136#0" expanded="true" />
-                <element signature="e#183#184#0" expanded="true" />
-              </folding>
+      <file leaf-file-name="readme.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/sigalhu/bridgepattern/readme.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="148">
+                <caret line="112" column="39" selection-start-line="112" selection-start-column="39" selection-end-line="112" selection-end-column="39" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Context.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/sigalhu/strategypattern/Context.java">
+      <file leaf-file-name="ConcreteImplementor2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/sigalhu/bridgepattern/impl/ConcreteImplementor2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="12" column="22" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Client.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/sigalhu/strategypattern/Client.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ConcreteTarget.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/sigalhu/adapterpattern/ConcreteTarget.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="8" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-              <folding>
-                <element signature="e#125#126#0" expanded="true" />
-                <element signature="e#197#198#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Adaptee.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/sigalhu/adapterpattern/Adaptee.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="5" column="66" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-              <folding>
-                <element signature="e#103#104#0" expanded="true" />
-                <element signature="e#179#180#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Adapter.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/sigalhu/adapterpattern/Adapter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="2" column="13" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Target.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/sigalhu/adapterpattern/Target.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="2" column="25" lean-forward="true" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Client.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/sigalhu/adapterpattern/Client.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="7" column="19" lean-forward="false" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
-              <folding />
+            <state relative-caret-position="46">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Client.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/sigalhu/interpreterpattern/Client.java">
+        <entry file="file://$PROJECT_DIR$/src/com/sigalhu/bridgepattern/impl/Client.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="13" column="37" lean-forward="true" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
-              <folding />
+            <state relative-caret-position="46">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Implementor.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/sigalhu/bridgepattern/impl/Implementor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="46">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Abstraction.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/sigalhu/bridgepattern/impl/Abstraction.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="46">
+              <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RefinedAbstraction.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/sigalhu/bridgepattern/impl/RefinedAbstraction.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="46">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConcreteImplementor1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/sigalhu/bridgepattern/impl/ConcreteImplementor1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -141,36 +207,46 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>package com.sigalhu.abstractfactory;</find>
+      <find>package com.sigalhu.templatemethod;</find>
+      <find>package com.sigalhu.builderpattern;</find>
+      <find>package com.sigalhu.proxypattern;</find>
+      <find>package com.sigalhu.mediatorpattern;</find>
+      <find>package com.sigalhu.commandpattern;</find>
+      <find>package com.sigalhu.responsibilitychain;</find>
+      <find>package com.sigalhu.decoratorpattern;</find>
+      <find>package com.sigalhu.strategypattern;</find>
+      <find>package com.sigalhu.adapterpattern;</find>
+      <find>package com.sigalhu.visitorpattern;</find>
+      <find>package com.sigalhu.statepattern;</find>
+      <find>package com.sigalhu.interpreterpattern;</find>
+      <find>package com.sigalhu.flyweightpattern;</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>package com.sigalhu.abstractfactory.impl;</replace>
+      <replace>package com.sigalhu.templatemethod.impl;</replace>
+      <replace>package com.sigalhu.builderpattern.impl;</replace>
+      <replace>package com.sigalhu.proxypattern.impl;</replace>
+      <replace>package com.sigalhu.mediatorpattern.impl;</replace>
+      <replace>package com.sigalhu.commandpattern.impl;</replace>
+      <replace>package com.sigalhu.responsibilitychain.impl;</replace>
+      <replace>package com.sigalhu.decoratorpattern.impl;</replace>
+      <replace>package com.sigalhu.strategypattern.impl;</replace>
+      <replace>package com.sigalhu.adapterpattern.impl;</replace>
+      <replace>package com.sigalhu.visitorpattern.impl;</replace>
+      <replace>package com.sigalhu.statepattern.impl;</replace>
+      <replace>package com.sigalhu.interpreterpattern.impl;</replace>
+      <replace>package com.sigalhu.flyweightpattern.impl;</replace>
+    </replaceStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="GradleLocalSettings">
-    <option name="externalProjectsViewState">
-      <projects_view />
-    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/sigalhu/singleton/Singleton2.java" />
-        <option value="$PROJECT_DIR$/src/com/sigalhu/singleton/Singleton3.java" />
-        <option value="$PROJECT_DIR$/src/com/sigalhu/factorymethod/ConcreateCreator.java" />
-        <option value="$PROJECT_DIR$/src/com/sigalhu/factorymethod/Client.java" />
-        <option value="$PROJECT_DIR$/src/com/sigalhu/abstractfactory/AbstractProductA.java" />
-        <option value="$PROJECT_DIR$/src/com/sigalhu/abstractfactory/AbstractProductB.java" />
-        <option value="$PROJECT_DIR$/src/com/sigalhu/abstractfactory/ProductA1.java" />
-        <option value="$PROJECT_DIR$/src/com/sigalhu/abstractfactory/ProductA2.java" />
-        <option value="$PROJECT_DIR$/src/com/sigalhu/abstractfactory/ProductB1.java" />
-        <option value="$PROJECT_DIR$/src/com/sigalhu/abstractfactory/ProductB2.java" />
-        <option value="$PROJECT_DIR$/src/com/sigalhu/abstractfactory/Client.java" />
-        <option value="$PROJECT_DIR$/src/com/sigalhu/templatemethod/Client.java" />
-        <option value="$PROJECT_DIR$/src/com/sigalhu/builderpattern/ConcreteProduct.java" />
-        <option value="$PROJECT_DIR$/src/com/sigalhu/builderpattern/ConcreteBuilder.java" />
-        <option value="$PROJECT_DIR$/src/com/sigalhu/builderpattern/Director.java" />
-        <option value="$PROJECT_DIR$/src/com/sigalhu/proxypattern/Proxy.java" />
-        <option value="$PROJECT_DIR$/src/com/sigalhu/proxypattern/dynamicproxy/Subject.java" />
-        <option value="$PROJECT_DIR$/src/com/sigalhu/proxypattern/dynamicproxy/MyInvocationHandler.java" />
-        <option value="$PROJECT_DIR$/src/com/sigalhu/proxypattern/dynamicproxy/IAdvice.java" />
         <option value="$PROJECT_DIR$/src/com/sigalhu/proxypattern/dynamicproxy/BeforeAdvice.java" />
         <option value="$PROJECT_DIR$/src/com/sigalhu/proxypattern/dynamicproxy/DynamicProxy.java" />
         <option value="$PROJECT_DIR$/src/com/sigalhu/proxypattern/dynamicproxy/RealSubject.java" />
@@ -190,7 +266,6 @@
         <option value="$PROJECT_DIR$/src/com/sigalhu/bridgepattern/RefinedAbstraction.java" />
         <option value="$PROJECT_DIR$/src/com/sigalhu/bridgepattern/Client.java" />
         <option value="$PROJECT_DIR$/src/com/sigalhu/commandpattern/Client.java" />
-        <option value="$PROJECT_DIR$/src/com/sigalhu/responsibilitychain/Handler.java" />
         <option value="$PROJECT_DIR$/src/com/sigalhu/responsibilitychain/Client.java" />
         <option value="$PROJECT_DIR$/src/com/sigalhu/decoratorpattern/ConcreteComponent.java" />
         <option value="$PROJECT_DIR$/src/com/sigalhu/decoratorpattern/ConcreteDecorator1.java" />
@@ -203,6 +278,26 @@
         <option value="$PROJECT_DIR$/src/com/sigalhu/adapterpattern/Adaptee.java" />
         <option value="$PROJECT_DIR$/src/com/sigalhu/adapterpattern/Client.java" />
         <option value="$PROJECT_DIR$/src/com/sigalhu/interpreterpattern/Client.java" />
+        <option value="$PROJECT_DIR$/src/com/sigalhu/responsibilitychain/Handler.java" />
+        <option value="$PROJECT_DIR$/readme.md" />
+        <option value="$PROJECT_DIR$/src/com/sigalhu/singleton/readme.md" />
+        <option value="$PROJECT_DIR$/src/com/sigalhu/factorymethod/readme.md" />
+        <option value="$PROJECT_DIR$/src/com/sigalhu/abstractfactory/readme.md" />
+        <option value="$PROJECT_DIR$/src/com/sigalhu/templatemethod/readme.md" />
+        <option value="$PROJECT_DIR$/src/com/sigalhu/builderpattern/readme.md" />
+        <option value="$PROJECT_DIR$/src/com/sigalhu/proxypattern/readme.md" />
+        <option value="$PROJECT_DIR$/src/com/sigalhu/prototypepattern/readme.md" />
+        <option value="$PROJECT_DIR$/src/com/sigalhu/mediatorpattern/readme.md" />
+        <option value="$PROJECT_DIR$/src/com/sigalhu/commandpattern/readme.md" />
+        <option value="$PROJECT_DIR$/src/com/sigalhu/responsibilitychain/readme.md" />
+        <option value="$PROJECT_DIR$/src/com/sigalhu/decoratorpattern/readme.md" />
+        <option value="$PROJECT_DIR$/src/com/sigalhu/strategypattern/readme.md" />
+        <option value="$PROJECT_DIR$/src/com/sigalhu/adapterpattern/readme.md" />
+        <option value="$PROJECT_DIR$/src/com/sigalhu/visitorpattern/readme.md" />
+        <option value="$PROJECT_DIR$/src/com/sigalhu/statepattern/readme.md" />
+        <option value="$PROJECT_DIR$/src/com/sigalhu/interpreterpattern/readme.md" />
+        <option value="$PROJECT_DIR$/src/com/sigalhu/flyweightpattern/readme.md" />
+        <option value="$PROJECT_DIR$/src/com/sigalhu/bridgepattern/readme.md" />
       </list>
     </option>
   </component>
@@ -224,7 +319,10 @@
     <option name="jreName" value="1.8" />
     <option name="vmOptions" value="-Dmaven.multiModuleProjectDirectory=$M2_HOME" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="73" />
     <option name="y" value="-15" />
     <option name="width" value="1400" />
@@ -234,21 +332,11 @@
     <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-      <manualOrder />
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -272,7 +360,56 @@
               <item name="DesignPatterns" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="sigalhu" type="462c0819:PsiDirectoryNode" />
+              <item name="abstractfactory" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignPatterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="sigalhu" type="462c0819:PsiDirectoryNode" />
               <item name="adapterpattern" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignPatterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="sigalhu" type="462c0819:PsiDirectoryNode" />
+              <item name="bridgepattern" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignPatterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="sigalhu" type="462c0819:PsiDirectoryNode" />
+              <item name="builderpattern" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignPatterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="sigalhu" type="462c0819:PsiDirectoryNode" />
+              <item name="commandpattern" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignPatterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="sigalhu" type="462c0819:PsiDirectoryNode" />
+              <item name="decoratorpattern" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignPatterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="sigalhu" type="462c0819:PsiDirectoryNode" />
+              <item name="factorymethod" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignPatterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="sigalhu" type="462c0819:PsiDirectoryNode" />
+              <item name="flyweightpattern" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DesignPatterns" type="b2602c69:ProjectViewProjectNode" />
@@ -281,19 +418,91 @@
               <item name="sigalhu" type="462c0819:PsiDirectoryNode" />
               <item name="interpreterpattern" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="DesignPatterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="sigalhu" type="462c0819:PsiDirectoryNode" />
+              <item name="mediatorpattern" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignPatterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="sigalhu" type="462c0819:PsiDirectoryNode" />
+              <item name="prototypepattern" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignPatterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="sigalhu" type="462c0819:PsiDirectoryNode" />
+              <item name="proxypattern" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignPatterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="sigalhu" type="462c0819:PsiDirectoryNode" />
+              <item name="responsibilitychain" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignPatterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="sigalhu" type="462c0819:PsiDirectoryNode" />
+              <item name="singleton" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignPatterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="sigalhu" type="462c0819:PsiDirectoryNode" />
+              <item name="statepattern" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignPatterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="sigalhu" type="462c0819:PsiDirectoryNode" />
+              <item name="strategypattern" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignPatterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="sigalhu" type="462c0819:PsiDirectoryNode" />
+              <item name="templatemethod" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignPatterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="sigalhu" type="462c0819:PsiDirectoryNode" />
+              <item name="visitorpattern" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="Scratches" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Code\Java\DesignPatterns\src\com\sigalhu\bridgepattern\pic" />
+      <recent name="D:\Code\Java\DesignPatterns\src\com\sigalhu\flyweightpattern\pic" />
+      <recent name="D:\Code\Java\DesignPatterns\src\com\sigalhu\interpreterpattern\pic" />
+      <recent name="D:\Code\Java\DesignPatterns\src\com\sigalhu\statepattern\pic" />
+      <recent name="D:\Code\Java\DesignPatterns\src\com\sigalhu\visitorpattern\pic" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -309,124 +518,67 @@
   </component>
   <component name="RunManager" selected="Application.Client">
     <configuration default="true" type="Applet" factoryName="Applet">
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <module />
-    </configuration>
-    <configuration name="Client (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.sigalhu.factorymethod.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.sigalhu.factorymethod.Client" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="DesignPatterns" />
-      <envs />
-    </configuration>
-    <configuration name="Client (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.sigalhu.abstractfactory.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.sigalhu.abstractfactory.Client" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="DesignPatterns" />
-      <envs />
-    </configuration>
-    <configuration name="Client (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.sigalhu.proxypattern.dynamicproxy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.sigalhu.proxypattern.dynamicproxy.Client" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="DesignPatterns" />
-      <envs />
-    </configuration>
-    <configuration name="Client (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.sigalhu.decoratorpattern.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.sigalhu.decoratorpattern.Client" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="DesignPatterns" />
-      <envs />
     </configuration>
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+      <option name="MAIN_CLASS_NAME" value="com.sigalhu.adapterpattern.impl.Client" />
+      <module name="DesignPatterns" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sigalhu.adapterpattern.*" />
+          <option name="PATTERN" value="com.sigalhu.adapterpattern.impl.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.sigalhu.adapterpattern.Client" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
+    </configuration>
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sigalhu.factorymethod.impl.Client" />
       <module name="DesignPatterns" />
-      <envs />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sigalhu.factorymethod.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sigalhu.abstractfactory.impl.Client" />
+      <module name="DesignPatterns" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sigalhu.abstractfactory.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sigalhu.proxypattern.impl.dynamicproxy.Client" />
+      <module name="DesignPatterns" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sigalhu.proxypattern.impl.dynamicproxy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sigalhu.decoratorpattern.impl.Client" />
+      <module name="DesignPatterns" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sigalhu.decoratorpattern.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" />
@@ -436,24 +588,13 @@
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="TEST_SEARCH_SCOPE">
         <value defaultName="singleModule" />
       </option>
-      <envs />
       <patterns />
     </configuration>
-    <configuration default="true" type="Remote" factoryName="Remote">
-      <option name="USE_SOCKET_TRANSPORT" value="true" />
-      <option name="SERVER_MODE" value="false" />
-      <option name="SHMEM_ADDRESS" value="javadebug" />
-      <option name="HOST" value="localhost" />
-      <option name="PORT" value="5005" />
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" />
@@ -466,17 +607,21 @@
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="TEST_SEARCH_SCOPE">
         <value defaultName="singleModule" />
       </option>
       <option name="USE_DEFAULT_REPORTERS" value="false" />
       <option name="PROPERTIES_FILE" />
-      <envs />
       <properties />
       <listeners />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
     </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
@@ -484,25 +629,22 @@
       <option name="PROGRAM_PARAMETERS" />
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
-    <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Client (2)" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Client (3)" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Client (4)" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Client (5)" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Client" />
+    <list>
+      <item itemvalue="Application.Client (2)" />
+      <item itemvalue="Application.Client (3)" />
+      <item itemvalue="Application.Client (4)" />
+      <item itemvalue="Application.Client (5)" />
+      <item itemvalue="Application.Client" />
     </list>
     <recent_temporary>
-      <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Client" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Client (5)" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Client (4)" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Client (3)" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Client (2)" />
+      <list>
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.Client (5)" />
+        <item itemvalue="Application.Client (4)" />
+        <item itemvalue="Application.Client (3)" />
+        <item itemvalue="Application.Client (2)" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -536,47 +678,81 @@
       <workItem from="1522042642964" duration="888000" />
       <workItem from="1522126468262" duration="1216000" />
       <workItem from="1525422387794" duration="1717000" />
+      <workItem from="1527880468412" duration="7525000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58410000" />
+    <option name="totallyTimeSpent" value="65935000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1618" height="870" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="FindBugs-IDEA" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32952926" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3281027" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32905984" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2091969" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="SonarLint" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39942938" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3281027" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13539445" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3293348" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39942938" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="7" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.32952926" />
+      <window_info anchor="bottom" id="SonarLint" order="7" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="CheckStyle" order="7" weight="0.32905984" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+    <layout-to-restore>
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="8" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info id="Image Layers" order="3" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.3281027" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="CheckStyle" order="10" weight="0.32905984" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.32952926" />
+      <window_info anchor="bottom" id="SonarLint" order="12" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21162046" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.39942938" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -588,386 +764,395 @@
     <breakpoint-manager>
       <option name="time" value="1" />
     </breakpoint-manager>
-    <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/sigalhu/interpreterpattern/Expression.java">
+    <entry file="file://$PROJECT_DIR$/src/com/sigalhu/decoratorpattern/impl/Component.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        <state relative-caret-position="46">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sigalhu/interpreterpattern/TerminalExpression.java">
+    <entry file="file://$PROJECT_DIR$/src/com/sigalhu/decoratorpattern/impl/ConcreteComponent.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" column="1" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        <state relative-caret-position="46">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sigalhu/interpreterpattern/NonterminalExpression.java">
+    <entry file="file://$PROJECT_DIR$/src/com/sigalhu/decoratorpattern/impl/ConcreteDecorator1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" column="15" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        <state relative-caret-position="46">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sigalhu/flyweightpattern/Flyweight.java">
+    <entry file="file://$PROJECT_DIR$/src/com/sigalhu/decoratorpattern/impl/ConcreteDecorator2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="8" column="20" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+        <state relative-caret-position="46">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sigalhu/flyweightpattern/ConcreteFlyweight1.java">
+    <entry file="file://$PROJECT_DIR$/src/com/sigalhu/decoratorpattern/impl/Decorator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="27" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        <state>
+          <caret selection-end-column="42" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sigalhu/flyweightpattern/ConcreteFlyweight2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" column="23" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+    <entry file="file://$PROJECT_DIR$/src/com/sigalhu/decoratorpattern/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="139">
+            <caret line="113" column="42" selection-start-line="113" selection-start-column="42" selection-end-line="113" selection-end-column="42" />
+            <folding>
+              <element signature="e#196#197#0" expanded="true" />
+              <element signature="e#239#240#0" expanded="true" />
+              <element signature="e#297#298#0" expanded="true" />
+              <element signature="e#337#338#0" expanded="true" />
+            </folding>
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sigalhu/flyweightpattern/FlyweightFactory.java">
+    <entry file="file://$PROJECT_DIR$/src/com/sigalhu/strategypattern/impl/ConcreteStrategy2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" column="34" lean-forward="true" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
+        <state relative-caret-position="46">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sigalhu/bridgepattern/Implementor.java">
+    <entry file="file://$PROJECT_DIR$/src/com/sigalhu/strategypattern/impl/ConcreteStrategy1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="28" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        <state relative-caret-position="46">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sigalhu/bridgepattern/ConcreteImplementor2.java">
+    <entry file="file://$PROJECT_DIR$/src/com/sigalhu/strategypattern/impl/Strategy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="11" column="5" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        <state relative-caret-position="46">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sigalhu/bridgepattern/Abstraction.java">
+    <entry file="file://$PROJECT_DIR$/src/com/sigalhu/strategypattern/impl/Context.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="33" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        <state relative-caret-position="46">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sigalhu/bridgepattern/RefinedAbstraction.java">
+    <entry file="file://$PROJECT_DIR$/src/com/sigalhu/strategypattern/impl/Client.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="13" column="36" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        <state>
+          <caret selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sigalhu/bridgepattern/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+    <entry file="file://$PROJECT_DIR$/src/com/sigalhu/strategypattern/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-105">
+            <caret line="73" column="41" selection-start-line="73" selection-start-column="41" selection-end-line="73" selection-end-column="41" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sigalhu/bridgepattern/ConcreteImplementor1.java">
+    <entry file="file://$PROJECT_DIR$/src/com/sigalhu/adapterpattern/impl/Adaptee.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        <state relative-caret-position="46">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sigalhu/mediatorpattern/Mediator.java">
+    <entry file="file://$PROJECT_DIR$/src/com/sigalhu/adapterpattern/impl/Client.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="22" column="34" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+        <state relative-caret-position="46">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sigalhu/mediatorpattern/ConcreteMediator.java">
+    <entry file="file://$PROJECT_DIR$/src/com/sigalhu/adapterpattern/impl/Adapter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        <state relative-caret-position="46">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sigalhu/mediatorpattern/Colleague.java">
+    <entry file="file://$PROJECT_DIR$/src/com/sigalhu/adapterpattern/impl/Target.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="22" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        <state relative-caret-position="46">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sigalhu/mediatorpattern/ConcreteColleague1.java">
+    <entry file="file://$PROJECT_DIR$/src/com/sigalhu/adapterpattern/impl/ConcreteTarget.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        <state>
+          <caret selection-end-column="40" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sigalhu/mediatorpattern/ConcreteColleague2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+    <entry file="file://$PROJECT_DIR$/src/com/sigalhu/adapterpattern/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="102">
+            <caret line="65" column="40" selection-start-line="65" selection-start-column="40" selection-end-line="65" selection-end-column="40" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sigalhu/commandpattern/Receiver.java">
+    <entry file="file://$PROJECT_DIR$/src/com/sigalhu/visitorpattern/impl/ConcreteElement1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="22" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        <state relative-caret-position="46">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sigalhu/commandpattern/ConcreteReceiver1.java">
+    <entry file="file://$PROJECT_DIR$/src/com/sigalhu/visitorpattern/impl/IVisitor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        <state relative-caret-position="46">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sigalhu/commandpattern/ConcreteReceiver2.java">
+    <entry file="file://$PROJECT_DIR$/src/com/sigalhu/visitorpattern/impl/ObjectStruture.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        <state relative-caret-position="92">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sigalhu/commandpattern/Command.java">
+    <entry file="file://$PROJECT_DIR$/src/com/sigalhu/visitorpattern/impl/Element.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="22" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        <state relative-caret-position="46">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sigalhu/commandpattern/ConcreteCommand1.java">
+    <entry file="file://$PROJECT_DIR$/src/com/sigalhu/visitorpattern/impl/Client.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        <state relative-caret-position="46">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sigalhu/commandpattern/ConcreteCommand2.java">
+    <entry file="file://$PROJECT_DIR$/src/com/sigalhu/visitorpattern/impl/ConcreteElement2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        <state relative-caret-position="46">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sigalhu/commandpattern/Invoker.java">
+    <entry file="file://$PROJECT_DIR$/src/com/sigalhu/visitorpattern/impl/Visitor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="14" column="1" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="1" />
+        <state>
+          <caret selection-end-column="40" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sigalhu/commandpattern/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="13" column="5" lean-forward="false" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+    <entry file="file://$PROJECT_DIR$/src/com/sigalhu/visitorpattern/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="107">
+            <caret line="124" column="40" selection-start-line="124" selection-start-column="40" selection-end-line="124" selection-end-column="40" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sigalhu/responsibilitychain/Handler.java">
+    <entry file="file://$PROJECT_DIR$/src/com/sigalhu/statepattern/impl/Client.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="25" column="34" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+        <state relative-caret-position="46">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sigalhu/responsibilitychain/ConcreteHandler1.java">
+    <entry file="file://$PROJECT_DIR$/src/com/sigalhu/statepattern/impl/ConcreteState1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="14" column="1" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        <state relative-caret-position="46">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sigalhu/responsibilitychain/ConcreteHandler2.java">
+    <entry file="file://$PROJECT_DIR$/src/com/sigalhu/statepattern/impl/ConcreteState2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        <state relative-caret-position="46">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sigalhu/responsibilitychain/ConcreteHandler3.java">
+    <entry file="file://$PROJECT_DIR$/src/com/sigalhu/statepattern/impl/Context.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        <state relative-caret-position="46">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sigalhu/responsibilitychain/Level.java">
+    <entry file="file://$PROJECT_DIR$/src/com/sigalhu/statepattern/impl/State.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        <state>
+          <caret selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sigalhu/responsibilitychain/Request.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+    <entry file="file://$PROJECT_DIR$/src/com/sigalhu/statepattern/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="38">
+            <caret line="113" column="38" selection-start-line="113" selection-start-column="38" selection-end-line="113" selection-end-column="38" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sigalhu/responsibilitychain/Response.java">
+    <entry file="file://$PROJECT_DIR$/src/com/sigalhu/interpreterpattern/impl/NonterminalExpression.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        <state relative-caret-position="46">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sigalhu/responsibilitychain/Client.java">
+    <entry file="file://$PROJECT_DIR$/src/com/sigalhu/interpreterpattern/impl/TerminalExpression.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" column="28" lean-forward="false" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+        <state relative-caret-position="46">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sigalhu/decoratorpattern/Component.java">
+    <entry file="file://$PROJECT_DIR$/src/com/sigalhu/interpreterpattern/impl/Client.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        <state relative-caret-position="92">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sigalhu/decoratorpattern/ConcreteComponent.java">
+    <entry file="file://$PROJECT_DIR$/src/com/sigalhu/interpreterpattern/impl/Context.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        <state relative-caret-position="46">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sigalhu/decoratorpattern/Decorator.java">
+    <entry file="file://$PROJECT_DIR$/src/com/sigalhu/interpreterpattern/impl/Expression.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="15" column="1" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        <state>
+          <caret selection-end-column="44" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sigalhu/decoratorpattern/ConcreteDecorator1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="10" column="8" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="41" />
+    <entry file="file://$PROJECT_DIR$/src/com/sigalhu/interpreterpattern/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-82">
+            <caret line="66" column="44" selection-start-line="66" selection-start-column="44" selection-end-line="66" selection-end-column="44" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sigalhu/decoratorpattern/ConcreteDecorator2.java">
+    <entry file="file://$PROJECT_DIR$/src/com/sigalhu/flyweightpattern/impl/ConcreteFlyweight1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="10" column="35" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        <state relative-caret-position="46">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sigalhu/decoratorpattern/Client.java">
+    <entry file="file://$PROJECT_DIR$/src/com/sigalhu/flyweightpattern/impl/ConcreteFlyweight2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="15" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        <state relative-caret-position="46">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sigalhu/strategypattern/Strategy.java">
+    <entry file="file://$PROJECT_DIR$/src/com/sigalhu/flyweightpattern/impl/Flyweight.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="46">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sigalhu/strategypattern/ConcreteStrategy2.java">
+    <entry file="file://$PROJECT_DIR$/src/com/sigalhu/flyweightpattern/impl/FlyweightFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="5" column="33" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding>
-            <element signature="e#135#136#0" expanded="true" />
-            <element signature="e#183#184#0" expanded="true" />
-          </folding>
+        <state>
+          <caret selection-end-column="42" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sigalhu/strategypattern/Context.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="12" column="22" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
+    <entry file="file://$PROJECT_DIR$/src/com/sigalhu/flyweightpattern/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="10">
+            <caret line="91" column="42" selection-start-line="91" selection-start-column="42" selection-end-line="91" selection-end-column="42" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sigalhu/strategypattern/ConcreteStrategy1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="e#135#136#0" expanded="true" />
-            <element signature="e#183#184#0" expanded="true" />
-          </folding>
+    <entry file="file://$PROJECT_DIR$/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="506">
+            <caret line="22" column="44" selection-start-line="22" selection-start-column="44" selection-end-line="22" selection-end-column="44" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sigalhu/strategypattern/Client.java">
+    <entry file="file://$PROJECT_DIR$/src/com/sigalhu/bridgepattern/impl/ConcreteImplementor2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="46">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sigalhu/adapterpattern/ConcreteTarget.java">
+    <entry file="file://$PROJECT_DIR$/src/com/sigalhu/bridgepattern/impl/Client.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding>
-            <element signature="e#125#126#0" expanded="true" />
-            <element signature="e#197#198#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="46">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sigalhu/adapterpattern/Adaptee.java">
+    <entry file="file://$PROJECT_DIR$/src/com/sigalhu/bridgepattern/impl/Implementor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="66" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding>
-            <element signature="e#103#104#0" expanded="true" />
-            <element signature="e#179#180#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="46">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sigalhu/adapterpattern/Adapter.java">
+    <entry file="file://$PROJECT_DIR$/src/com/sigalhu/bridgepattern/impl/Abstraction.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="46">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sigalhu/adapterpattern/Target.java">
+    <entry file="file://$PROJECT_DIR$/src/com/sigalhu/bridgepattern/impl/RefinedAbstraction.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="25" lean-forward="true" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-          <folding />
+        <state relative-caret-position="46">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sigalhu/interpreterpattern/Client.java">
+    <entry file="file://$PROJECT_DIR$/src/com/sigalhu/bridgepattern/impl/ConcreteImplementor1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="13" column="37" lean-forward="true" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
-          <folding />
+        <state>
+          <caret selection-end-column="39" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sigalhu/adapterpattern/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="19" lean-forward="false" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
-          <folding />
+    <entry file="file://$PROJECT_DIR$/src/com/sigalhu/bridgepattern/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="148">
+            <caret line="112" column="39" selection-start-line="112" selection-start-column="39" selection-end-line="112" selection-end-column="39" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
