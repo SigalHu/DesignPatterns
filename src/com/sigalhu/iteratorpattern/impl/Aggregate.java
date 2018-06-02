@@ -1,4 +1,4 @@
-package com.sigalhu.iteratorpattern;
+package com.sigalhu.iteratorpattern.impl;
 
 public interface Aggregate {
     //增加元素

@@ -1,4 +1,4 @@
-package com.sigalhu.iteratorpattern;
+package com.sigalhu.iteratorpattern.impl;
 
 public interface Iterator {
     //遍历到下一个元素

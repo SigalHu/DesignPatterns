@@ -1,4 +1,4 @@
-package com.sigalhu.compositepattern;
+package com.sigalhu.compositepattern.impl;
 
 public abstract class Component {
     //个体和整体都具有的共享

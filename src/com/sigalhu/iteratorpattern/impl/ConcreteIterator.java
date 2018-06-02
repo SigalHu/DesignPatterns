@@ -1,4 +1,4 @@
-package com.sigalhu.iteratorpattern;
+package com.sigalhu.iteratorpattern.impl;
 
 import java.util.Vector;
 

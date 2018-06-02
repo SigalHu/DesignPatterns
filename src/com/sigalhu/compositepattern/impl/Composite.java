@@ -1,4 +1,4 @@
-package com.sigalhu.compositepattern;
+package com.sigalhu.compositepattern.impl;
 
 import java.util.ArrayList;
 
