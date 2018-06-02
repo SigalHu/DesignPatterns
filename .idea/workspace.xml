@@ -6,108 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="06ea75b7-119f-4d8d-b21a-55564a7ca8cc" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/abstractfactory/AbstractCreator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/abstractfactory/impl/AbstractCreator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/abstractfactory/AbstractProductA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/abstractfactory/impl/AbstractProductA.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/abstractfactory/AbstractProductB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/abstractfactory/impl/AbstractProductB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/abstractfactory/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/abstractfactory/impl/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/abstractfactory/Creator1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/abstractfactory/impl/Creator1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/abstractfactory/Creator2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/abstractfactory/impl/Creator2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/abstractfactory/ProductA1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/abstractfactory/impl/ProductA1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/abstractfactory/ProductA2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/abstractfactory/impl/ProductA2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/abstractfactory/ProductB1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/abstractfactory/impl/ProductB1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/abstractfactory/ProductB2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/abstractfactory/impl/ProductB2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/adapterpattern/Adaptee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/adapterpattern/impl/Adaptee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/adapterpattern/Adapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/adapterpattern/impl/Adapter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/adapterpattern/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/adapterpattern/impl/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/adapterpattern/ConcreteTarget.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/adapterpattern/impl/ConcreteTarget.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/adapterpattern/Target.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/adapterpattern/impl/Target.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/bridgepattern/Abstraction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/bridgepattern/impl/Abstraction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/bridgepattern/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/bridgepattern/impl/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/bridgepattern/ConcreteImplementor1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/bridgepattern/impl/ConcreteImplementor1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/bridgepattern/ConcreteImplementor2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/bridgepattern/impl/ConcreteImplementor2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/bridgepattern/Implementor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/bridgepattern/impl/Implementor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/bridgepattern/RefinedAbstraction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/bridgepattern/impl/RefinedAbstraction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/builderpattern/Builder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/builderpattern/impl/Builder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/builderpattern/ConcreteBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/builderpattern/impl/ConcreteBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/builderpattern/Director.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/builderpattern/impl/Director.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/builderpattern/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/builderpattern/impl/Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/commandpattern/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/commandpattern/impl/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/commandpattern/Command.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/commandpattern/impl/Command.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/commandpattern/ConcreteCommand1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/commandpattern/impl/ConcreteCommand1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/commandpattern/ConcreteCommand2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/commandpattern/impl/ConcreteCommand2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/commandpattern/ConcreteReceiver1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/commandpattern/impl/ConcreteReceiver1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/commandpattern/ConcreteReceiver2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/commandpattern/impl/ConcreteReceiver2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/commandpattern/Invoker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/commandpattern/impl/Invoker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/commandpattern/Receiver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/commandpattern/impl/Receiver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/decoratorpattern/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/decoratorpattern/impl/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/decoratorpattern/Component.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/decoratorpattern/impl/Component.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/decoratorpattern/ConcreteComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/decoratorpattern/impl/ConcreteComponent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/decoratorpattern/ConcreteDecorator1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/decoratorpattern/impl/ConcreteDecorator1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/decoratorpattern/ConcreteDecorator2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/decoratorpattern/impl/ConcreteDecorator2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/decoratorpattern/Decorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/decoratorpattern/impl/Decorator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/factorymethod/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/factorymethod/impl/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/factorymethod/ConcreateCreator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/factorymethod/impl/ConcreateCreator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/factorymethod/ConcreteProduct1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/factorymethod/impl/ConcreteProduct1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/factorymethod/ConcreteProduct2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/factorymethod/impl/ConcreteProduct2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/factorymethod/Creator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/factorymethod/impl/Creator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/factorymethod/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/factorymethod/impl/Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/flyweightpattern/ConcreteFlyweight1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/flyweightpattern/impl/ConcreteFlyweight1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/flyweightpattern/ConcreteFlyweight2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/flyweightpattern/impl/ConcreteFlyweight2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/flyweightpattern/Flyweight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/flyweightpattern/impl/Flyweight.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/flyweightpattern/FlyweightFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/flyweightpattern/impl/FlyweightFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/interpreterpattern/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/interpreterpattern/impl/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/interpreterpattern/Context.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/interpreterpattern/impl/Context.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/interpreterpattern/Expression.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/interpreterpattern/impl/Expression.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/interpreterpattern/NonterminalExpression.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/interpreterpattern/impl/NonterminalExpression.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/interpreterpattern/TerminalExpression.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/interpreterpattern/impl/TerminalExpression.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/mediatorpattern/Colleague.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/mediatorpattern/impl/Colleague.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/mediatorpattern/ConcreteColleague1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/mediatorpattern/impl/ConcreteColleague1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/mediatorpattern/ConcreteColleague2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/mediatorpattern/impl/ConcreteColleague2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/mediatorpattern/ConcreteMediator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/mediatorpattern/impl/ConcreteMediator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/mediatorpattern/Mediator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/mediatorpattern/impl/Mediator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/prototypepattern/PrototypeClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/prototypepattern/impl/PrototypeClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/proxypattern/Proxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/proxypattern/impl/Proxy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/proxypattern/RealSubject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/proxypattern/impl/RealSubject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/proxypattern/Subject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/proxypattern/impl/Subject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/proxypattern/dynamicproxy/BeforeAdvice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/proxypattern/impl/dynamicproxy/BeforeAdvice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/proxypattern/dynamicproxy/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/proxypattern/impl/dynamicproxy/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/proxypattern/dynamicproxy/DynamicProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/proxypattern/impl/dynamicproxy/DynamicProxy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/proxypattern/dynamicproxy/IAdvice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/proxypattern/impl/dynamicproxy/IAdvice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/proxypattern/dynamicproxy/MyInvocationHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/proxypattern/impl/dynamicproxy/MyInvocationHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/proxypattern/dynamicproxy/RealSubject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/proxypattern/impl/dynamicproxy/RealSubject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/proxypattern/dynamicproxy/Subject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/proxypattern/impl/dynamicproxy/Subject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/responsibilitychain/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/responsibilitychain/impl/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/responsibilitychain/ConcreteHandler1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/responsibilitychain/impl/ConcreteHandler1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/responsibilitychain/ConcreteHandler2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/responsibilitychain/impl/ConcreteHandler2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/responsibilitychain/ConcreteHandler3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/responsibilitychain/impl/ConcreteHandler3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/responsibilitychain/Handler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/responsibilitychain/impl/Handler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/responsibilitychain/Level.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/responsibilitychain/impl/Level.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/responsibilitychain/Request.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/responsibilitychain/impl/Request.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/responsibilitychain/Response.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/responsibilitychain/impl/Response.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/singleton/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/singleton/impl/Singleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/singleton/Singleton2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/singleton/impl/Singleton2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/singleton/Singleton3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/singleton/impl/Singleton3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/statepattern/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/statepattern/impl/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/statepattern/ConcreteState1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/statepattern/impl/ConcreteState1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/statepattern/ConcreteState2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/statepattern/impl/ConcreteState2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/statepattern/Context.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/statepattern/impl/Context.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/statepattern/State.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/statepattern/impl/State.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/strategypattern/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/strategypattern/impl/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/strategypattern/ConcreteStrategy1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/strategypattern/impl/ConcreteStrategy1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/strategypattern/ConcreteStrategy2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/strategypattern/impl/ConcreteStrategy2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/strategypattern/Context.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/strategypattern/impl/Context.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/strategypattern/Strategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/strategypattern/impl/Strategy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/templatemethod/AbstractClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/templatemethod/impl/AbstractClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/templatemethod/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/templatemethod/impl/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/templatemethod/ConcreteClass1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/templatemethod/impl/ConcreteClass1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/templatemethod/ConcreteClass2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/templatemethod/impl/ConcreteClass2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/visitorpattern/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/visitorpattern/impl/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/visitorpattern/ConcreteElement1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/visitorpattern/impl/ConcreteElement1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/visitorpattern/ConcreteElement2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/visitorpattern/impl/ConcreteElement2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/visitorpattern/Element.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/visitorpattern/impl/Element.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/visitorpattern/IVisitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/visitorpattern/impl/IVisitor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/visitorpattern/ObjectStruture.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/visitorpattern/impl/ObjectStruture.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/visitorpattern/Visitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/visitorpattern/impl/Visitor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -119,80 +18,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="readme.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="readme.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/readme.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="506">
-                <caret line="22" column="44" selection-start-line="22" selection-start-column="44" selection-end-line="22" selection-end-column="44" />
+              <first_editor relative-caret-position="92">
+                <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
               </first_editor>
               <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="readme.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/sigalhu/bridgepattern/readme.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="148">
-                <caret line="112" column="39" selection-start-line="112" selection-start-column="39" selection-end-line="112" selection-end-column="39" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ConcreteImplementor2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/sigalhu/bridgepattern/impl/ConcreteImplementor2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Client.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/sigalhu/bridgepattern/impl/Client.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Implementor.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/sigalhu/bridgepattern/impl/Implementor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Abstraction.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/sigalhu/bridgepattern/impl/Abstraction.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RefinedAbstraction.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/sigalhu/bridgepattern/impl/RefinedAbstraction.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ConcreteImplementor1.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/sigalhu/bridgepattern/impl/ConcreteImplementor1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -223,6 +56,7 @@
       <find>package com.sigalhu.statepattern;</find>
       <find>package com.sigalhu.interpreterpattern;</find>
       <find>package com.sigalhu.flyweightpattern;</find>
+      <find>package com.sigalhu.bridgepattern;</find>
     </findStrings>
     <replaceStrings>
       <replace>package com.sigalhu.abstractfactory.impl;</replace>
@@ -239,6 +73,7 @@
       <replace>package com.sigalhu.statepattern.impl;</replace>
       <replace>package com.sigalhu.interpreterpattern.impl;</replace>
       <replace>package com.sigalhu.flyweightpattern.impl;</replace>
+      <replace>package com.sigalhu.bridgepattern.impl;</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -279,7 +114,6 @@
         <option value="$PROJECT_DIR$/src/com/sigalhu/adapterpattern/Client.java" />
         <option value="$PROJECT_DIR$/src/com/sigalhu/interpreterpattern/Client.java" />
         <option value="$PROJECT_DIR$/src/com/sigalhu/responsibilitychain/Handler.java" />
-        <option value="$PROJECT_DIR$/readme.md" />
         <option value="$PROJECT_DIR$/src/com/sigalhu/singleton/readme.md" />
         <option value="$PROJECT_DIR$/src/com/sigalhu/factorymethod/readme.md" />
         <option value="$PROJECT_DIR$/src/com/sigalhu/abstractfactory/readme.md" />
@@ -298,6 +132,7 @@
         <option value="$PROJECT_DIR$/src/com/sigalhu/interpreterpattern/readme.md" />
         <option value="$PROJECT_DIR$/src/com/sigalhu/flyweightpattern/readme.md" />
         <option value="$PROJECT_DIR$/src/com/sigalhu/bridgepattern/readme.md" />
+        <option value="$PROJECT_DIR$/readme.md" />
       </list>
     </option>
   </component>
@@ -322,7 +157,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="73" />
     <option name="y" value="-15" />
     <option name="width" value="1400" />
@@ -417,6 +252,14 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="sigalhu" type="462c0819:PsiDirectoryNode" />
               <item name="interpreterpattern" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignPatterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="sigalhu" type="462c0819:PsiDirectoryNode" />
+              <item name="interpreterpattern" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DesignPatterns" type="b2602c69:ProjectViewProjectNode" />
@@ -678,15 +521,16 @@
       <workItem from="1522042642964" duration="888000" />
       <workItem from="1522126468262" duration="1216000" />
       <workItem from="1525422387794" duration="1717000" />
-      <workItem from="1527880468412" duration="7525000" />
+      <workItem from="1527880468412" duration="8026000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="65935000" />
+    <option name="totallyTimeSpent" value="66436000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -1032,13 +876,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sigalhu/interpreterpattern/impl/Context.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/sigalhu/interpreterpattern/impl/Expression.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -1094,16 +931,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="506">
-            <caret line="22" column="44" selection-start-line="22" selection-start-column="44" selection-end-line="22" selection-end-column="44" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/sigalhu/bridgepattern/impl/ConcreteImplementor2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="46">
@@ -1151,6 +978,23 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="148">
             <caret line="112" column="39" selection-start-line="112" selection-start-column="39" selection-end-line="112" selection-end-column="39" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sigalhu/interpreterpattern/impl/Context.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="92">
+            <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
           </first_editor>
           <second_editor />
         </state>
