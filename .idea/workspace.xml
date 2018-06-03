@@ -6,11 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="06ea75b7-119f-4d8d-b21a-55564a7ca8cc" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/observerpattern/ConcreteObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/observerpattern/impl/ConcreteObserver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/observerpattern/ConcreteSubject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/observerpattern/impl/ConcreteSubject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/observerpattern/Observer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/observerpattern/impl/Observer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/observerpattern/Subject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/observerpattern/impl/Subject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/facadepattern/ClassA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/facadepattern/impl/ClassA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/facadepattern/ClassB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/facadepattern/impl/ClassB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/facadepattern/ClassC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/facadepattern/impl/ClassC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sigalhu/facadepattern/Facade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sigalhu/facadepattern/impl/Facade.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,7 +21,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="readme.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="readme.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/readme.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -30,6 +29,42 @@
                 <caret line="19" column="33" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ClassA.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/sigalhu/facadepattern/impl/ClassA.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="46">
+              <caret line="2" column="13" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ClassB.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/sigalhu/facadepattern/impl/ClassB.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="46">
+              <caret line="2" column="13" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ClassC.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/sigalhu/facadepattern/impl/ClassC.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="46">
+              <caret line="2" column="13" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Facade.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/sigalhu/facadepattern/impl/Facade.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="46">
+              <caret line="2" column="13" selection-end-line="19" />
             </state>
           </provider>
         </entry>
@@ -90,15 +125,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="138">
               <caret line="6" lean-forward="true" selection-end-line="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Subject.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/sigalhu/observerpattern/impl/Subject.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -311,6 +337,21 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="sigalhu" type="462c0819:PsiDirectoryNode" />
               <item name="decoratorpattern" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignPatterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="sigalhu" type="462c0819:PsiDirectoryNode" />
+              <item name="facadepattern" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignPatterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="sigalhu" type="462c0819:PsiDirectoryNode" />
+              <item name="facadepattern" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DesignPatterns" type="b2602c69:ProjectViewProjectNode" />
@@ -630,15 +671,16 @@
       <workItem from="1525422387794" duration="1717000" />
       <workItem from="1527880468412" duration="11075000" />
       <workItem from="1527962360919" duration="24000" />
-      <workItem from="1528003068579" duration="6554000" />
+      <workItem from="1528003068579" duration="7762000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="76063000" />
+    <option name="totallyTimeSpent" value="77271000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -718,34 +760,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/sigalhu/visitorpattern/impl/IVisitor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sigalhu/visitorpattern/impl/ObjectStruture.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sigalhu/visitorpattern/impl/Element.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sigalhu/visitorpattern/impl/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/sigalhu/visitorpattern/impl/ConcreteElement2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="46">
@@ -1144,6 +1158,34 @@
             <caret line="19" column="33" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sigalhu/facadepattern/impl/ClassA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="13" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sigalhu/facadepattern/impl/ClassB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="13" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sigalhu/facadepattern/impl/ClassC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="13" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sigalhu/facadepattern/impl/Facade.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="13" selection-end-line="19" />
         </state>
       </provider>
     </entry>

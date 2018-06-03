@@ -1,4 +1,4 @@
-package com.sigalhu.facadepattern;
+package com.sigalhu.facadepattern.impl;
 
 public class ClassA {
     public void doSomethingA(){
