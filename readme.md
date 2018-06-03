@@ -15,6 +15,7 @@
 [11. 装饰模式](src/com/sigalhu/decoratorpattern)<br>
 [12. 策略模式](src/com/sigalhu/strategypattern)<br>
 [13. 适配器模式](src/com/sigalhu/adapterpattern)<br>
+[14. 迭代器模式](src/com/sigalhu/iteratorpattern)<br>
 
 [19. 访问者模式](src/com/sigalhu/visitorpattern)<br>
 [20. 状态模式](src/com/sigalhu/statepattern)<br>
