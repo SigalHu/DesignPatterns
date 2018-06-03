@@ -1,4 +1,4 @@
-package com.sigalhu.observerpattern;
+package com.sigalhu.observerpattern.impl;
 
 import java.util.Vector;
 

@@ -17,6 +17,7 @@
 [13. 适配器模式](src/com/sigalhu/adapterpattern)<br>
 [14. 迭代器模式](src/com/sigalhu/iteratorpattern)<br>
 [15. 组合模式](src/com/sigalhu/compositepattern)<br>
+[16. 观察者模式](src/com/sigalhu/observerpattern)<br>
 
 [19. 访问者模式](src/com/sigalhu/visitorpattern)<br>
 [20. 状态模式](src/com/sigalhu/statepattern)<br>

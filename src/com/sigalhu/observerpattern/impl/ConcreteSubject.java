@@ -1,4 +1,4 @@
-package com.sigalhu.observerpattern;
+package com.sigalhu.observerpattern.impl;
 
 public class ConcreteSubject extends Subject {
     //具体的业务

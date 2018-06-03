@@ -1,4 +1,4 @@
-package com.sigalhu.observerpattern;
+package com.sigalhu.observerpattern.impl;
 
 public interface Observer {
     //更新方法
