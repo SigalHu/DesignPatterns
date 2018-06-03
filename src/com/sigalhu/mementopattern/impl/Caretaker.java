@@ -1,4 +1,4 @@
-package com.sigalhu.mementopattern;
+package com.sigalhu.mementopattern.impl;
 
 public class Caretaker {
     //备忘录对象

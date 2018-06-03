@@ -1,4 +1,4 @@
-package com.sigalhu.mementopattern;
+package com.sigalhu.mementopattern.impl;
 
 public class Memento {
     //发起人的内部状态

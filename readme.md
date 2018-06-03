@@ -18,7 +18,8 @@
 [14. 迭代器模式](src/com/sigalhu/iteratorpattern)<br>
 [15. 组合模式](src/com/sigalhu/compositepattern)<br>
 [16. 观察者模式](src/com/sigalhu/observerpattern)<br>
-
+[17. 门面模式](src/com/sigalhu/facadepattern)<br>
+[18. 备忘录模式](src/com/sigalhu/mementopattern)<br>
 [19. 访问者模式](src/com/sigalhu/visitorpattern)<br>
 [20. 状态模式](src/com/sigalhu/statepattern)<br>
 [21. 解释器模式](src/com/sigalhu/interpreterpattern)<br>

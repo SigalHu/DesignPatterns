@@ -1,4 +1,4 @@
-package com.sigalhu.mementopattern;
+package com.sigalhu.mementopattern.impl;
 
 public class Originator {
     //内部状态
